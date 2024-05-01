@@ -1,2 +1,2 @@
 # mai-web-app
-This repo contains the code for the repo that is used to build the app.modularai.com site.
+This repository contains the code for a simple static website to display the Microsoft Power APP.
